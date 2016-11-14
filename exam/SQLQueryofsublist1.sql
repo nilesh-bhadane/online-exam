@@ -1,0 +1,1 @@
+﻿insert into mst_subject values(51,'C#');
